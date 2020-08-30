@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f011a9fdacc8cd3584f3ebe8c5aebec7",
+    "revision": "27cd4e4d601c7addb61c6a2e245479d5",
     "url": "/reactvideocard/index.html"
   },
   {
