@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/reactvideocard/static/css/main.e17771c0.chunk.css",
-    "main.js": "/reactvideocard/static/js/main.ed61fc54.chunk.js",
-    "main.js.map": "/reactvideocard/static/js/main.ed61fc54.chunk.js.map",
+    "main.js": "/reactvideocard/static/js/main.cc5cad0f.chunk.js",
+    "main.js.map": "/reactvideocard/static/js/main.cc5cad0f.chunk.js.map",
     "runtime-main.js": "/reactvideocard/static/js/runtime-main.b77e3714.js",
     "runtime-main.js.map": "/reactvideocard/static/js/runtime-main.b77e3714.js.map",
-    "static/js/2.35614203.chunk.js": "/reactvideocard/static/js/2.35614203.chunk.js",
-    "static/js/2.35614203.chunk.js.map": "/reactvideocard/static/js/2.35614203.chunk.js.map",
+    "static/js/2.c7943da7.chunk.js": "/reactvideocard/static/js/2.c7943da7.chunk.js",
+    "static/js/2.c7943da7.chunk.js.map": "/reactvideocard/static/js/2.c7943da7.chunk.js.map",
     "index.html": "/reactvideocard/index.html",
-    "precache-manifest.cdf3e7f841200ba09fe6ee0cb1e5ad50.js": "/reactvideocard/precache-manifest.cdf3e7f841200ba09fe6ee0cb1e5ad50.js",
+    "precache-manifest.efbaeada81d8346452b02d337762fb31.js": "/reactvideocard/precache-manifest.efbaeada81d8346452b02d337762fb31.js",
     "service-worker.js": "/reactvideocard/service-worker.js",
     "static/css/main.e17771c0.chunk.css.map": "/reactvideocard/static/css/main.e17771c0.chunk.css.map",
-    "static/js/2.35614203.chunk.js.LICENSE.txt": "/reactvideocard/static/js/2.35614203.chunk.js.LICENSE.txt"
+    "static/js/2.c7943da7.chunk.js.LICENSE.txt": "/reactvideocard/static/js/2.c7943da7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b77e3714.js",
-    "static/js/2.35614203.chunk.js",
+    "static/js/2.c7943da7.chunk.js",
     "static/css/main.e17771c0.chunk.css",
-    "static/js/main.ed61fc54.chunk.js"
+    "static/js/main.cc5cad0f.chunk.js"
   ]
 }
